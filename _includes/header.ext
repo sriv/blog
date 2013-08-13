@@ -27,9 +27,6 @@
           </div>
           <ul id="links">
             <li{% if page.url == "/index.html" %} class="active"{% endif %}><a href="{{site.url}}">home</a></li>
-            {% if site.twitter %}
-              <li><a id="twitter-link">twitter</a><div class="loading-spinner"></div></li>
-            {% endif %}
             {% if site.github %}
               <li><a id="github-link">github</a><div class="loading-spinner"></div></li>
             {% endif %}

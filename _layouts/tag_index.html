@@ -1,8 +1,9 @@
-{% include header.ext %}<h2 class="post_title">{{page.title}}</h2>
+{% include header.ext %}
 <div id="post-wrapper">
   <ol id="posts">
     <li class="post nav">
       <ul class="post-archive">
+        <h2 class="post_title">{{page.title}}</h2>
         {% for post in site.posts %}
         {% for tag in post.tags %}
         {% if tag == page.tag %}
