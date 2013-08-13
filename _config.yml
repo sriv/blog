@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: hacknlearn.in
 pygments: true
 exclude:
  - unicorn.rb
