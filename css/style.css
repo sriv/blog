@@ -1,0 +1,10 @@
+---
+layout: none
+---
+
+{% capture css %}
+{% include css/bootstrap.min.css %}
+{% include css/bootstrap-responsive.min.css %}
+{% include css/style.css %}
+{% endcapture %}
+{{ css | strip_newlines }}
