@@ -125,7 +125,7 @@ p {
 #content ol#posts li.post h3 span {
   color: #aaa;
   font-size: 12px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Raleway','Helvetica Neue',Helvetica,Arial,sans-serif;
   font-weight: normal;
 }
 #content ol#posts li.post.nav {
@@ -274,7 +274,7 @@ ul.post-archive li span {
   display: block;
   float: left;
   margin: 0 0 10px 10px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Raleway','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 .profile-name h2 {
   font-size: 22px;
