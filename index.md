@@ -1,6 +1,6 @@
 ---
 layout : home
-title : sriv.github.io
+title : www.hacknlearn.in
 ---
 
 <ul class="posts">
