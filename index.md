@@ -17,7 +17,6 @@ title : www.hacknlearn.in
 						{% endfor %}
 						</ul>
 					</div>
-					
 					{{ post.content }}
 					<br />
 					<a href="{{ post.url}}#disqus_thread">Comments</a>
@@ -31,7 +30,6 @@ title : www.hacknlearn.in
 						</ul>
 					</div>
 					{{ post.content }}
-					
 					<a href="{{ post.url }}#disqus_thread">Comments</a>
 				{% endif %}
 			</div>

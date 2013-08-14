@@ -733,3 +733,18 @@ ul.post-archive li span {
 .profile-repo-logo:hover {
   border-bottom: 0;
 }
+ul.tag_list_in_post{
+  list-style-type: none;
+  display: inline;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+li.tag_list_item{
+  border: 1px solid #404040;
+  border-radius: 5px 5px 5px 5px;
+  display: inline;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
