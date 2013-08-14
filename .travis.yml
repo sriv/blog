@@ -1,0 +1,4 @@
+deploy:
+  provider: heroku
+  app: hacknlearn-in
+  api_key: d+LSgOyqnx700FEeP54K7FCOmNmyRhJ3+XUIhgmUnjdWYIUdMczV5wcUlr/KuIGE6Z1FIEYQ3G+1ako2lY1n7qn4TL5y4K0KCVmZK6xV4Tk3mnpuMrMJCidFvWRniM3H4IM94C41d+RCSlPlPKbK3dSFlV4CXrDllUDsuCtGK9s=
