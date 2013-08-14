@@ -5,6 +5,7 @@ comments: true
 tags:
 - .net
 - nunit
+summary: "Some stuff I noticed when using NUnit 2.6.2 for testing async methods."
 ---
 
 NUnit released version 2.6.2 with support for testing asynchronous methods. I decided to give it a shot.

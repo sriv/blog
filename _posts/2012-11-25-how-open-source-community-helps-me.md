@@ -5,6 +5,7 @@ comments: true
 tags:
 - open-source
 - meta
+summary: "Thoughts on how open source community means much more beyond just free stuff."
 ---
 
 There has been a lot of buzz about open-source software lately. Thanks to sites like [github](http://www.github.com), more and more people are looking at open-source software, and thankfully, the contributing community also seems to be growing.

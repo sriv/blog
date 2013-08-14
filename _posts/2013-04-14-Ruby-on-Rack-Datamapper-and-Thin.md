@@ -7,6 +7,7 @@ tags:
 - rack
 - datamapper
 - thin
+summary: "Setting up a simple web application using Rack Middleware, Datamapper as ORM and Thin webserver"
 ---
 
 A while back I started a hobby project and wanted to try out a different tech stack, than the regular .net mvc or rails that I'm used to.

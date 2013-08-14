@@ -4,6 +4,7 @@ title: "Your search can be only as good as your data"
 comments: true
 tags:
 - search
+summary: "My experiences on how lack of simple data maintenance discipline hurts lookup."
 ---
 
 Very recently I was involved in a project that required us to implement a search feature. The setup is quite simple, and generic:
