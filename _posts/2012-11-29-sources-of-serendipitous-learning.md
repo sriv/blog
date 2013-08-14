@@ -7,7 +7,7 @@ tags:
 - meta
 ---
 
-A few days ago, I wrote a [post](/how-open-source-community-helps-me.html) about how open source community help me. I've been thinking about it, and have realized that open source projects are one of my sources of learning what I have learnt. 
+A few days ago, I wrote a [post]({% post_url 2012-11-25-how-open-source-community-helps-me %}) about how open source community help me. I've been thinking about it, and have realized that open source projects are one of my sources of learning what I have learnt.
 
 In this post, I will try to put my thoughts together on what else has helped me.
 
