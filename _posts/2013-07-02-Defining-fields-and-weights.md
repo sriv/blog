@@ -43,11 +43,11 @@ In Lucene based search engines (Solr or Elasticsearch), one could define the wei
 
 It is also worth noting that seasonal events and spikes could influence the priority of the fields. For instance, if a vendor is running promotion on a particular brand, it could be the case such that the Brand field takes priority over Name, so that the products under promotion could reach the users better.
 
-[Index v/s querytime boosting](Link to article) discusses more about boosts.
+[Index v/s querytime boosting]({% post_url 2013-07-09-index-vs-querytime-boosting %}) discusses more about boosts.
 
 **Identifying Field Type**
 
-Most search engines come with the ability to define various data types for the fields. This helps in doing operations that are relevant to the data in place. For instance, text comparison can be done on strings, arithmetic operations on numbers etc. This helps in performing search beyond simple text match. This post talks about performing search [beyond simple text match](link)
+Most search engines come with the ability to define various data types for the fields. This helps in doing operations that are relevant to the data in place. For instance, text comparison can be done on strings, arithmetic operations on numbers etc. This helps in performing search beyond simple text match. This post talks about performing search [beyond simple text match]({% post_url 2013-07-05-Beyond-simple-text-match %})
 
 **Indexed v/s Stored fields**
 
