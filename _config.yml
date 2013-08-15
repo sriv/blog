@@ -1,7 +1,6 @@
 name: hacknlearn.in
 pygments: true
 exclude:
- - unicorn.rb
  - README.md
  - Procfile
  - Gemfile
