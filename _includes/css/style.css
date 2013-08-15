@@ -756,3 +756,11 @@ li.tag_list_item{
   padding-top: 100px;
   padding-right: 100px;
 }
+table, td, th
+{
+border:1px solid #404040;
+}
+td, th
+{
+padding:15px;
+}
