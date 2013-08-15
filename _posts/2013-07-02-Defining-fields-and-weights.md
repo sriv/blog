@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Implementing Search Engine - Defining fields and weights"
+title: "Search Engine - Defining fields and weights"
 comments: true
 tags:
 - search

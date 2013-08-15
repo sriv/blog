@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Need for a search engine"
+title: "Search Engine - Need for a custom search engine"
 comments: true
 tags:
 - search
@@ -18,7 +18,7 @@ So, before taking on the task of implementing a Search Engine in a website, it's
 - Understand the primary and secondary objectives.
 - Helps formulate goals against which the implementation can be measured
 
-The above points are applicable to cases beyond Search Engine. But, in this case, the search results are sometimes[beyond simple text match]({% post_url 2013-06-30-Beyond-simple-text-match %}).
+The above points are applicable to cases beyond Search Engine. But, in this case, the search results are sometimes[beyond simple text match]({% post_url 2013-07-50-Beyond-simple-text-match %}).
 
 As with most projects, there should be a driving need behind implementing a Search Engine. It is worth repeating here that most websites could not benefit much by competing against Search Engine, unless they have the time, resource and vision to take them on. Most vendor site's core business isn't Site Search, but a good search engine can boost the reach of the products/content to the user. 
 

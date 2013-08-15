@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Search Engine Implementation - Beyond simple text match"
+title: "Search Engine - Beyond simple text match"
 comments: true
 tags:
 - search
@@ -21,7 +21,7 @@ There are two aspects of implementation that helps us achieve this.
 
 **Querying** - Indexing helps when a field can be designed without the query context. However, there could be multiple use cases on the same field, the logic depends heavily on the query phrase and context. In such cases, Solr helps by providing a good amount of options to perform lookup. (Description of Solr query syntax can be found in the documentation).   
 
-A few examples where there is a need to go beyond Simple Text match:
+###A few examples where there is a need to go beyond Simple Text match:
 
 **_Range Query_**
 

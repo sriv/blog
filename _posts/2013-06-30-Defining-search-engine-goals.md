@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Defining Search Engine Goals"
+title: "Search Engine - Defining Goals"
 comments: true
 tags:
 - search
