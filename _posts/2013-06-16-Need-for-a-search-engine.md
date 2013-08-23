@@ -1,10 +1,11 @@
 --- 
-layout: post
+layout: search
 title: "Search Engine - Need for a custom search engine"
 comments: true
 tags:
 - search
 summary: "Some ideas on points to note when deciding a search engine implementation."
+alias: [/custom-search-engine]
 ---
 
 A lot of websites today have a search box somewhere. A few of them get it right, most of them do not. This is one reason why many people prefer Search Engines such as Google to get to whatever they want. Another reason is aggregated results - search engine results provide options to the users which most websites cannot. As a customer, it is fair to expect that one should be given the best search result to the requirement one has, not constrained by provider's capability.

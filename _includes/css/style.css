@@ -764,3 +764,17 @@ td, th
 {
 padding:15px;
 }
+#search-menu{
+  background: none repeat scroll 0 0 #0088CC;
+  border: 1px solid #44AACC;
+  border-radius: 5px 5px 5px 5px;
+  font-weight: bold;
+  list-style: none outside none;
+  padding: 10px;
+  position: fixed;
+  right: 0;
+  top: 20%;
+}
+#search-menu li a{
+  color: white;
+}

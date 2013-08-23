@@ -16,3 +16,15 @@ permalink: pretty
 
 twitter: stylish_steam
 github: sriv
+
+menus:
+    search:
+    - Needs: /2013/06/16/Need-for-a-search-engine/
+    - Goals: /2013/06/30/Defining-search-engine-goals/
+    - "Fields and Weights": /2013/07/02/Defining-fields-and-weights/
+    - "Complex Data Structures": /2013/07/07/Handling-complex-data-structures/
+    - "Beyond Simple text": /2013/07/05/Beyond-simple-text-match/
+    - Quality : 2012/11/27/your-search-can-be-only-as-good-as-your-data/
+    - Boosting: /2013/07/09/index-vs-querytime-boosting/
+    - Testing: /2013/07/10/Testing-a-search-engine-implementation/
+    - Feedback: /2013/07/11/Gathering-feedback-and-analytics/
