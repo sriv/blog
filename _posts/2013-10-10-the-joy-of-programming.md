@@ -13,7 +13,7 @@ I have met quite a few professionals from the software industry who are motivate
 
 ####Programming is...
 
-__*Challenging*__ - there are always boundaries to be pushed. Programming is an intellectual task, the more one masters it, the more one discovers about the next set of problems. The world is changing around us and there are always enough.
+__*Challenging*__ - there are always boundaries to be pushed. Programming is an intellectual task, the more one masters it, the more one discovers about the next set of problems. The world is changing around us and I find that there are enough avenues to explore.
  
 __*Fun*__ - There are often more than one way of doing something, and it is always interesting to learn new techniques. Languages evolve, and so do paradigms. The element of possibility is something that always surprises me. It is also a source of [serendipitous learning]({% post_url 2012-11-29-sources-of-serendipitous-learning %}) for me.
 
