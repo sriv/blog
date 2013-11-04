@@ -1,5 +1,5 @@
 --- 
-layout: search
+layout: post
 title: "Search Engine - Need for a custom search engine"
 comments: true
 tags:

@@ -12,7 +12,8 @@
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="{{site.url}}/css/style.css">
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,600,200,800' rel='stylesheet' type='text/css'>
-
+  <link rel="author" href="humans.txt" />
+  
   <script src="/js/libs/modernizr-2.5.3.min.js"></script>
 </head>
 <body>
